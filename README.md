@@ -6,7 +6,7 @@
 [<img style="margin-right:15px" align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img style="margin-right:15px" align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://www.linkedin.com/in/iamdakshay
-[youtube]: https://www.linkedin.com/in/iamdakshay
+[twitter]: https://twitter.com/_iamdakshay
+[youtube]: https://www.youtube.com/channel/UCM5F8xUgmXPafkOWoLL6tfQ
 [instagram]: https://www.linkedin.com/in/iamdakshay
 [linkedin]: https://www.linkedin.com/in/iamdakshay
